@@ -11537,3 +11537,12 @@ header.masthead h1, header.masthead .h1 {
   width: 4em;
   margin: auto;
 }
+
+#contact a {
+  color: #000;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  color: rgb(var(--bs-primary-rgb));
+}
